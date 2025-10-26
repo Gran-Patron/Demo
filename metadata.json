@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sonic Genre Analyzer",
+  "description": "An interactive dashboard that uses AI to analyze songs based on their audio characteristics. Select a song to view its detailed audio feature profile and receive an AI-generated genre analysis, mood description, and scoring.",
+  "requestFramePermissions": []
+}
